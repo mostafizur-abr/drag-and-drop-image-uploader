@@ -59,3 +59,9 @@
     height: 100%;
     object-fit: cover;
   }
+
+  @media only screen and (max-width: 992px) {
+    .drag-area{
+      width: 90%;
+    }
+  }
